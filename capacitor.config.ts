@@ -1,8 +1,8 @@
 import { CapacitorConfig } from '@capacitor/cli';
 
 const config: CapacitorConfig = {
-  appId: 'app.mediadesain.com',
-  appName: 'Mediadesain',
+  appId: 'mediadesain.app.template',
+  appName: 'AppTemplate',
   webDir: 'www',
   bundledWebRuntime: false,
   plugins: {
